@@ -1,0 +1,12 @@
+
+    Directory: C:\Users\jc601810\workspace\Learnings\crawler
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          12/30/2020  1:36 AM                coverage
+-a---            7/2/2023  7:39 PM             66 .gitattributes
+-a---            7/3/2023 12:21 AM              0 history.txt
+-a---          12/30/2020  2:02 AM           1914 index.js
+-a---          12/30/2020  1:35 AM            146 package.json
+-a---          12/30/2020  1:35 AM          24461 yarn.lock
+
